@@ -1,14 +1,4 @@
-. Clone repo
-$ git clone git@github.com:basir/NEWECOMMERCE.git
-$ cd amazona
-2. Setup MongoDB
-Local MongoDB
-Install it from here
-Create .env file in root folder
-Set MONGODB_URL=mongodb://localhost/amazona
-Atlas Cloud MongoDB
-Create database at https://cloud.mongodb.com
-Create .env file in root folder
+
 Set MONGODB_URL=mongodb+srv://your-db-connection
 3. Run Project
 $ npm install
@@ -26,23 +16,7 @@ It creates 6 sample products
 6. Admin Login
 Run http://localhost:3000/signin
 Enter admin email and password and click signin
-Support
-Q/A: https://webacademy.pro/amazona
-Contact Instructor: Basir
-Lessons
-Introduction to this course
-what you will build
-what you will learn
-who are audiences
-Install Tools
-Code Editor
-Web Browser
-VS Code Extension
-Website Template
-Create amazona folder
-create template folder
-create index.html
-add default HTML code
+
 link to style.css
 create header, main and footer
 style elements
